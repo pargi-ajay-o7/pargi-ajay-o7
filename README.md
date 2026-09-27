@@ -25,4 +25,4 @@ Data Analysis
 Excel
 Power BI
 🚀 Goal
-Building practical data analysis projects and starting freelance SQL work.## Hi there 👋
+Building practical data analysis projects and starting freelance SQL work.
